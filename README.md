@@ -1,1 +1,0 @@
-# palmaraz.github.io
