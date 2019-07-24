@@ -3,433 +3,428 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1/</loc>
+    <loc>https://palmaraz.github.io/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/</loc>
+    <loc>https://palmaraz.github.io/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/example2/</loc>
+    <loc>https://palmaraz.github.io/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/example/</loc>
+    <loc>https://palmaraz.github.io/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://palmaraz.github.io/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://palmaraz.github.io/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/privacy/</loc>
-    <lastmod>2019-07-23T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
+    <loc>https://palmaraz.github.io/post/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/writing-technical-content/</loc>
+    <loc>https://palmaraz.github.io/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>https://palmaraz.github.io/authors/admin/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://palmaraz.github.io/authors/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/jupyter/</loc>
+    <loc>https://palmaraz.github.io/post/jupyter/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/</loc>
+    <loc>https://palmaraz.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/slides/example/</loc>
+    <loc>https://palmaraz.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
+    <loc>https://palmaraz.github.io/publication_types/2/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/agueda-vazquez/</loc>
+    <loc>https://palmaraz.github.io/authors/agueda-vazquez/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/gabriel-navarro/</loc>
+    <loc>https://palmaraz.github.io/authors/gabriel-navarro/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/isabel-caballero/</loc>
+    <loc>https://palmaraz.github.io/authors/isabel-caballero/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/isabel-e.-huertas/</loc>
+    <loc>https://palmaraz.github.io/authors/isabel-e.-huertas/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/pablo-almaraz/</loc>
+    <loc>https://palmaraz.github.io/authors/pablo-almaraz/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>https://palmaraz.github.io/publication_types/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>https://palmaraz.github.io/publication/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/journal-article/navarro2017/</loc>
+    <loc>https://palmaraz.github.io/publication/journal-article/navarro2017/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/deep-learning/</loc>
+    <loc>https://palmaraz.github.io/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/demo/</loc>
+    <loc>https://palmaraz.github.io/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/project/external-project/</loc>
+    <loc>https://palmaraz.github.io/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/internal-project/</loc>
+    <loc>https://palmaraz.github.io/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>https://palmaraz.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://palmaraz.github.io/tags/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/academic/</loc>
+    <loc>https://palmaraz.github.io/tags/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/getting-started/</loc>
+    <loc>https://palmaraz.github.io/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/asier-herrero/</loc>
+    <loc>https://palmaraz.github.io/authors/asier-herrero/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/journal-article/herrero2016/</loc>
+    <loc>https://palmaraz.github.io/publication/journal-article/herrero2016/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/jorge-castro/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/jose-a.-hodar/</loc>
+    <loc>https://palmaraz.github.io/authors/jorge-castro/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/regino-zamora/</loc>
+    <loc>https://palmaraz.github.io/authors/jose-a.-hodar/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://palmaraz.github.io/authors/regino-zamora/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://palmaraz.github.io/categories/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>https://palmaraz.github.io/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/r-markdown/</loc>
+    <loc>https://palmaraz.github.io/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/plot/</loc>
+    <loc>https://palmaraz.github.io/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/regression/</loc>
+    <loc>https://palmaraz.github.io/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/journal-article/almaraz2015/</loc>
+    <loc>https://palmaraz.github.io/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://palmaraz.github.io/publication/journal-article/almaraz2015/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/b.-m.-escribano/</loc>
+    <loc>https://palmaraz.github.io/authors/b.-m.-escribano/</loc>
     <lastmod>2014-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/e.-i.-aguera/</loc>
+    <loc>https://palmaraz.github.io/authors/e.-i.-aguera/</loc>
     <lastmod>2014-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/m.-d.-rubio/</loc>
+    <loc>https://palmaraz.github.io/authors/m.-d.-rubio/</loc>
     <lastmod>2014-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/n.-ildefonso/</loc>
+    <loc>https://palmaraz.github.io/authors/n.-ildefonso/</loc>
     <lastmod>2014-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/p.-almaraz/</loc>
+    <loc>https://palmaraz.github.io/authors/p.-almaraz/</loc>
     <lastmod>2014-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/journal-article/rubio2014/</loc>
+    <loc>https://palmaraz.github.io/publication/journal-article/rubio2014/</loc>
     <lastmod>2014-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/r.-j.-de-miguel/</loc>
+    <loc>https://palmaraz.github.io/authors/r.-j.-de-miguel/</loc>
     <lastmod>2014-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/journal-article/almaraz2014/</loc>
+    <loc>https://palmaraz.github.io/publication/journal-article/almaraz2014/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/journal-article/moleon2013/</loc>
+    <loc>https://palmaraz.github.io/publication/journal-article/moleon2013/</loc>
     <lastmod>2013-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/jose-a.-sanchez-zapata/</loc>
-    <lastmod>2013-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/marcos-moleon/</loc>
+    <loc>https://palmaraz.github.io/authors/jose-a.-sanchez-zapata/</loc>
     <lastmod>2013-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/andy-j.-green/</loc>
+    <loc>https://palmaraz.github.io/authors/marcos-moleon/</loc>
+    <lastmod>2013-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://palmaraz.github.io/authors/andy-j.-green/</loc>
     <lastmod>2012-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/eduardo-aguilera/</loc>
+    <loc>https://palmaraz.github.io/authors/eduardo-aguilera/</loc>
     <lastmod>2012-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/journal-article/almaraz2012/</loc>
+    <loc>https://palmaraz.github.io/publication/journal-article/almaraz2012/</loc>
     <lastmod>2012-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/javier-bustamante/</loc>
-    <lastmod>2012-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/miguel-a.-rendon/</loc>
+    <loc>https://palmaraz.github.io/authors/javier-bustamante/</loc>
     <lastmod>2012-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/daniel-oro/</loc>
+    <loc>https://palmaraz.github.io/authors/miguel-a.-rendon/</loc>
+    <lastmod>2012-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://palmaraz.github.io/authors/daniel-oro/</loc>
     <lastmod>2011-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/journal-article/almaraz2011/</loc>
+    <loc>https://palmaraz.github.io/publication/journal-article/almaraz2011/</loc>
     <lastmod>2011-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/ainara-cortes-avizanda/</loc>
+    <loc>https://palmaraz.github.io/authors/ainara-cortes-avizanda/</loc>
     <lastmod>2011-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/antonio-delgado/</loc>
+    <loc>https://palmaraz.github.io/authors/antonio-delgado/</loc>
     <lastmod>2011-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/fernando-hiraldo/</loc>
+    <loc>https://palmaraz.github.io/authors/fernando-hiraldo/</loc>
     <lastmod>2011-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/jose-a.-donazar/</loc>
+    <loc>https://palmaraz.github.io/authors/jose-a.-donazar/</loc>
     <lastmod>2011-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/martina-carrete/</loc>
+    <loc>https://palmaraz.github.io/authors/martina-carrete/</loc>
     <lastmod>2011-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/journal-article/cortes-avizanda2011/</loc>
+    <loc>https://palmaraz.github.io/publication/journal-article/cortes-avizanda2011/</loc>
     <lastmod>2011-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/journal-article/moleon2008/</loc>
+    <loc>https://palmaraz.github.io/publication/journal-article/moleon2008/</loc>
     <lastmod>2008-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/a.j.-green/</loc>
+    <loc>https://palmaraz.github.io/authors/a.j.-green/</loc>
     <lastmod>2008-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/e.-aguilera/</loc>
+    <loc>https://palmaraz.github.io/authors/e.-aguilera/</loc>
     <lastmod>2008-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/m.a.-rendon/</loc>
+    <loc>https://palmaraz.github.io/authors/m.a.-rendon/</loc>
     <lastmod>2008-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/journal-article/rendon2008/</loc>
+    <loc>https://palmaraz.github.io/publication/journal-article/rendon2008/</loc>
     <lastmod>2008-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/journal-article/almaraz2005/</loc>
+    <loc>https://palmaraz.github.io/publication/journal-article/almaraz2005/</loc>
     <lastmod>2005-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/journal-article/almaraz2004b/</loc>
+    <loc>https://palmaraz.github.io/publication/journal-article/almaraz2004b/</loc>
     <lastmod>2004-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/juan-a.-amat/</loc>
+    <loc>https://palmaraz.github.io/authors/juan-a.-amat/</loc>
     <lastmod>2004-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/journal-article/almaraz2004a/</loc>
+    <loc>https://palmaraz.github.io/publication/journal-article/almaraz2004a/</loc>
     <lastmod>2004-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/</loc>
+    <loc>https://palmaraz.github.io/courses/</loc>
   </url>
   
 </urlset>
