@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andy J. Green on Pablo Almaraz</title>
-    <link>https://palmaraz.github.io/authors/andy-j.-green/</link>
+    <link>/authors/andy-j.-green/</link>
     <description>Recent content in Andy J. Green on Pablo Almaraz</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Pablo Almaraz</copyright>
     <lastBuildDate>Tue, 01 May 2012 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://palmaraz.github.io/authors/andy-j.-green/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/andy-j.-green/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Estimating partial observability and nonlinear climate effects on stochastic community dynamics of migratory waterfowl</title>
-      <link>https://palmaraz.github.io/publication/journal-article/almaraz2012/</link>
+      <link>/publication/journal-article/almaraz2012/</link>
       <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://palmaraz.github.io/publication/journal-article/almaraz2012/</guid>
+      <guid>/publication/journal-article/almaraz2012/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2656.2012.01972.x#&#34; target=&#34;_blank&#34;&gt;Supplementarymaterial and code&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
