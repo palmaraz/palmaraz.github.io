@@ -21,10 +21,25 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://palmaraz.github.io/publication_types/2/</loc>
-    <lastmod>2023-10-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://palmaraz.github.io/authors/andy-j.-green/</loc>
+    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://palmaraz.github.io/authors/</loc>
-    <lastmod>2023-10-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://palmaraz.github.io/publication/journal-article/almaraz2024/</loc>
+    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://palmaraz.github.io/authors/pablo-almaraz/</loc>
+    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://palmaraz.github.io/publication_types/</loc>
+    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://palmaraz.github.io/publication/</loc>
+    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://palmaraz.github.io/authors/fernando-soler-toscano/</loc>
     <lastmod>2023-10-29T00:00:00+00:00</lastmod>
@@ -32,16 +47,7 @@
     <loc>https://palmaraz.github.io/authors/jose-a.-langa/</loc>
     <lastmod>2023-10-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://palmaraz.github.io/authors/pablo-almaraz/</loc>
-    <lastmod>2023-10-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://palmaraz.github.io/authors/piotr-kalita/</loc>
-    <lastmod>2023-10-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://palmaraz.github.io/publication_types/</loc>
-    <lastmod>2023-10-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://palmaraz.github.io/publication/</loc>
     <lastmod>2023-10-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://palmaraz.github.io/publication/journal-article/almaraz2023/</loc>
@@ -212,9 +218,6 @@
     <loc>https://palmaraz.github.io/authors/marcos-moleon/</loc>
     <lastmod>2013-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://palmaraz.github.io/authors/andy-j.-green/</loc>
-    <lastmod>2012-05-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://palmaraz.github.io/authors/eduardo-aguilera/</loc>
     <lastmod>2012-05-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -279,6 +282,5 @@
     <lastmod>2004-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://palmaraz.github.io/privacy/</loc>
-    <priority>0</priority>
   </url>
 </urlset>
