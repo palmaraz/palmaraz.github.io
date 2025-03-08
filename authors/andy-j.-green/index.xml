@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andy J. Green on Pablo Almaraz</title>
+    <link>https://palmaraz.github.io/authors/andy-j.-green/</link>
+    <description>Recent content in Andy J. Green on Pablo Almaraz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2025 Pablo Almaraz, licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;CC BY-NC-SA 4.0&lt;/a&gt;.</copyright>
+    <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://palmaraz.github.io/authors/andy-j.-green/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Catastrophic bifurcation in the dynamics of a threatened bird community triggered by a planetary-scale environmental perturbation</title>
+      <link>https://palmaraz.github.io/publication/journal-article/almaraz2024/</link>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://palmaraz.github.io/publication/journal-article/almaraz2024/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ars.els-cdn.com/content/image/1-s2.0-S0006320724000272-mmc1.pdf&#34;&gt;Supplementary material&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/palmaraz/GuadalShiftR&#34;&gt;Supplementary material and code&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estimating partial observability and nonlinear climate effects on stochastic community dynamics of migratory waterfowl</title>
+      <link>https://palmaraz.github.io/publication/journal-article/almaraz2012/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://palmaraz.github.io/publication/journal-article/almaraz2012/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2656.2012.01972.x#&#34;&gt;Supplementary material and code&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
